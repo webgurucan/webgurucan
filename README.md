@@ -2,7 +2,7 @@
 
 ❤️ I love **solidity** for Smart Contracts and build fun Dapps on type-level
 
-- 3+ years of experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. 
+- 4+ years of experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. 
 - 9+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
 - Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
 - Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
