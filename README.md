@@ -23,6 +23,7 @@ Experienced Senior Software Engineer with over 10 years of expertise in PHP, Lar
 - GraphQL, Apollo
 
 📫 **How to reach me**
+
 I am currently available for new job opportunities and eager to take on challenging projects that allow me to apply my expertise!
 
 Please contact me at webgurucan@gmail.com
