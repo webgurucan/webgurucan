@@ -26,8 +26,6 @@ Experienced Senior Software Engineer with over 10 years of expertise in Node.js,
 
 📫 **How to reach me**
 
-I am currently available for new job opportunities and eager to take on challenging projects that allow me to apply my expertise!
-
 Please contact me at webgurucan@gmail.com
 
 <br><br>
