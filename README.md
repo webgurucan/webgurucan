@@ -1,6 +1,6 @@
 # Senior Software Engneer
 
-Experienced Senior Software Engineer with over 10 years of expertise in Node.js, PHP, Laravel, Java, Spring Boot, Python, React, Redux, TypeScript, and cloud platforms such as Azure and AWS. Proficient in designing and implementing scalable microservice architectures, developing high-performance RESTful APIs, and creating user-friendly interfaces with React, delivering robust solutions across FinTech, eCommerce, Healthcare, and Insurance industries. Demonstrated exceptional proficiency in optimizing financial systems for real-time transaction processing with Kafka and RabbitMQ, resulting in enhanced operational efficiency and performance.
+Experienced Senior Software Engineer with over 12 years of expertise in Node.js, PHP, Laravel, Java, Spring Boot, Python, React, Redux, TypeScript, and cloud platforms such as Azure and AWS. Proficient in designing and implementing scalable microservice architectures, developing high-performance RESTful APIs, and creating user-friendly interfaces with React, delivering robust solutions across FinTech, eCommerce, Healthcare, and Insurance industries. Demonstrated exceptional proficiency in optimizing financial systems for real-time transaction processing with Kafka and RabbitMQ, resulting in enhanced operational efficiency and performance.
 
 - 8 Years of MERN stack experience (MongoDB, Express, React and Node.js)
 - 8 years of experience in Java, specializing in Spring Boot and Apache Kafka
