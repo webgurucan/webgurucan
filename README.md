@@ -5,7 +5,7 @@ Experienced Senior Software Engineer with over 12 years of expertise in Node.js,
 - 8 Years of MERN stack experience (MongoDB, Express, React and Node.js)
 - 8 years of experience in Java, specializing in Spring Boot and Apache Kafka
 - 10 years of PHP/MySQL development with Laravel, Shopify, and Magento expertise.
-- 4 years of experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. 
+- 6 years of experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. 
 - 9 years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js.
 - Built CI/CD pipelines leveraging Azure DevOps and Azure Kubernetes Service (AKS) for scalable container orchestration and automated workflows, reducing deployment times by 25% and enhancing overall development agility and efficiency.
 - Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
