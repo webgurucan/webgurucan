@@ -24,10 +24,6 @@ Experienced Senior Software Engineer with over 12 years of expertise in Node.js,
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
 
-📫 **How to reach me**
-
-Please contact me at webgurucan@gmail.com
-
 <br><br>
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
