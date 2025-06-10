@@ -1,28 +1,6 @@
 # Senior Software Engneer
 
-Experienced Senior Software Engineer with over 12 years of expertise in Node.js, PHP, Laravel, Java, Spring Boot, Python, React, Redux, TypeScript, and cloud platforms such as Azure and AWS. Proficient in designing and implementing scalable microservice architectures, developing high-performance RESTful APIs, and creating user-friendly interfaces with React, delivering robust solutions across FinTech, eCommerce, Healthcare, and Insurance industries. Demonstrated exceptional proficiency in optimizing financial systems for real-time transaction processing with Kafka and RabbitMQ, resulting in enhanced operational efficiency and performance.
-
-- 8 Years of MERN stack experience (MongoDB, Express, React and Node.js)
-- 8 years of experience in Java, specializing in Spring Boot and Apache Kafka
-- 10 years of PHP/MySQL development with Laravel, Shopify, and Magento expertise.
-- 6 years of experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. 
-- 9 years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js.
-- Built CI/CD pipelines leveraging Azure DevOps and Azure Kubernetes Service (AKS) for scalable container orchestration and automated workflows, reducing deployment times by 25% and enhancing overall development agility and efficiency.
-- Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
-
-
-🌱 **Main Skills:**
-- Main approach: OOP, SOLID, DRY, Design Patterns, Microservices, SAGA Pattern, Data Structure & Algorithm, Problem Solving, Agile/Scrum, TDD, DDD, Monitoring, Logging, Metrics, Observability, CI/CD, DevOps
-- PHP, Laravel, Shopify, Mangeto
-- Java, Spring, Spring Boot 
-- React, React Hooks, React Context, 
-- Node.js, Express
-- DeFi, Dao, Olympus Dao, Dapps, Blockchain, Avalanche
-- Crypto, Solidity, Smart contract (ERC20, ERC721, ERC1155), NFT, web3.js, ether.js, NFT, NFT marketplace, Opensea
-- MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
-- Azure, GCP, AWS, DigitalOcean, Heroku
-- Tailwind CSS, Material-UI, Bootstrap
-- GraphQL, Apollo
+Experienced Senior Software Engineer with over 12 years of expertise in Node.js, PHP, Laravel, Java, Spring Boot, Python, .NET, C#, Angular, React, Redux, TypeScript, and cloud platforms such as Azure and AWS. Proficient in designing and implementing scalable microservice architectures, developing high-performance RESTful APIs, and creating user-friendly interfaces with React, delivering robust solutions across FinTech, eCommerce, Healthcare, and Insurance industries. Demonstrated exceptional proficiency in optimizing financial systems for real-time transaction processing with Kafka and RabbitMQ, resulting in enhanced operational efficiency and performance.
 
 <br><br>
 <!--
