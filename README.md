@@ -1,7 +1,12 @@
 # Senior Software Engneer
 
-Experienced Senior Software Engineer with over 12 years of expertise in Node.js, PHP, Laravel, Java, Spring Boot, Python, .NET, C#, Angular, React, Redux, TypeScript, and cloud platforms such as Azure and AWS. Proficient in designing and implementing scalable microservice architectures, developing high-performance RESTful APIs, and creating user-friendly interfaces with React, delivering robust solutions across FinTech, eCommerce, Healthcare, and Insurance industries. Demonstrated exceptional proficiency in optimizing financial systems for real-time transaction processing with Kafka and RabbitMQ, resulting in enhanced operational efficiency and performance.
+Senior Software Engineer with 14+ years of experience building scalable backend systems and modern web applications.
 
+I work across JavaScript and TypeScript, using Node.js, PHP/Laravel, Java/Spring Boot, Python, and cloud platforms (AWS and Azure), including AWS serverless (Lambda). I build SaaS applications, scalable microservices, and high-performance APIs, with front-end experience in Vue and React.
+
+Recently, I’m exploring AI-powered applications, especially AI-driven chat apps and intelligent workflows, combining solid engineering fundamentals with practical AI use cases.
+
+I’ve built and optimized production systems across FinTech, eCommerce, and SaaS, always focusing on clean architecture, performance, and great user experience.
 <br><br>
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
