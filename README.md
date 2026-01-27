@@ -2,11 +2,13 @@
 
 Senior Software Engineer with 14+ years of experience building scalable backend systems and modern web applications.
 
-I work across JavaScript and TypeScript, using Node.js, PHP/Laravel, Java/Spring Boot, Python, and cloud platforms (AWS and Azure), including AWS serverless (Lambda). I build SaaS applications, scalable microservices, and high-performance APIs, with front-end experience in Vue and React.
+I work across JavaScript and TypeScript, using Node.js, Next.js, Python, PHP/Laravel, Java/Spring Boot, and cloud platforms (AWS, GCP and Azure), including AWS serverless (Lambda). I build SaaS applications, scalable microservices, and high-performance APIs, with front-end experience in Vue and React.
 
 Recently, I’m exploring AI-powered applications, especially AI-driven chat apps and intelligent workflows, combining solid engineering fundamentals with practical AI use cases.
 
 I’ve built and optimized production systems across FinTech, eCommerce, and SaaS, always focusing on clean architecture, performance, and great user experience.
+
+Interested in indie hacker collaborations — feel free to contact me.
 <br><br>
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
