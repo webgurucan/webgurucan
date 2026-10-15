@@ -4,7 +4,10 @@ I'm a full-stack developer focused on AI automation and building intelligent sol
 
 I enjoy using AI tools, LLMs, and modern web technologies to turn ideas into practical products. My interests include AI agents, workflow automation, AI-powered SaaS, and tools that help people and businesses work more efficiently. 
 
-I love experimenting with new technologies, building useful projects, and exploring what's possible with AI. Always open to connecting with developers, founders, and like-minded people to build something valuable together.
+I love experimenting with new technologies, building useful projects, and exploring what's possible with AI. 
+
+Always open to connecting with developers, founders, and like-minded people to build something valuable together.
+Thank you!
 
 <br><br>
 <!--
