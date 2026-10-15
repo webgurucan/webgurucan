@@ -1,14 +1,11 @@
-# Senior Software Engneer
+# Senior AI Engineer | Python, React, Node.js | LLM Automation & Conversational AI
 
-Senior Software Engineer with 14+ years of experience building scalable backend systems and modern web applications.
+I'm a full-stack developer focused on AI automation and building intelligent solutions that simplify everyday tasks and business workflows. 
 
-I work across JavaScript and TypeScript, using Node.js, Next.js, Python, PHP/Laravel, Java/Spring Boot, and cloud platforms (AWS, GCP and Azure), including AWS serverless (Lambda). I build SaaS applications, scalable microservices, and high-performance APIs, with front-end experience in Vue and React.
+I enjoy using AI tools, LLMs, and modern web technologies to turn ideas into practical products. My interests include AI agents, workflow automation, AI-powered SaaS, and tools that help people and businesses work more efficiently. 
 
-Recently, I’m exploring AI-powered applications, especially AI-driven chat apps and intelligent workflows, combining solid engineering fundamentals with practical AI use cases.
+I love experimenting with new technologies, building useful projects, and exploring what's possible with AI. Always open to connecting with developers, founders, and like-minded people to build something valuable together.
 
-I’ve built and optimized production systems across FinTech, eCommerce, and SaaS, always focusing on clean architecture, performance, and great user experience.
-
-Interested in indie hacker collaborations — feel free to contact me.
 <br><br>
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
